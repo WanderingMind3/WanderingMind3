@@ -11,7 +11,7 @@
 
 <h3 align="left">Here are some ways to connect with me 🔻</h3>
 <p align="left"> <a href="https://twitter.com/Coder__Abhishek" target="blank"><img src="https://img.shields.io/twitter/follow/Coder__Abhishek?logo=twitter&style=for-the-badge" alt="Coder__Abhishek" /></a> </p>
-<p align="left"> <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-srivastava-00783821a" target="blank"><img src="https://img.shields.io/badge/Linkedin-Connect-blue" alt="Coder__Abhishek" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/abhishek-srivastava-00783821a" target="blank"><img src="https://img.shields.io/badge/Linkedin-Connect-blue" alt="Coder__Abhishek" /></a> </p>
 
 
 
