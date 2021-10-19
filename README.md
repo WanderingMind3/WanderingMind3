@@ -1,4 +1,5 @@
-![Hello, World](https://user-images.githubusercontent.com/86902918/137727136-4506b57e-959c-43d3-be82-7ff631da8aa9.gif)
+![Hello, World](https://user-images.githubusercontent.com/86902918/137907650-3321ac44-ebe5-4b9e-928a-2b217481644b.gif)
+
 
 
 - 🌱 I’m currently learning **DataScience and Python Development**
@@ -12,6 +13,10 @@
 <h3 align="left">Here are some ways to connect with me 🔻</h3>
 <p align="left"> <a href="https://twitter.com/Coder__Abhishek" target="blank"><img src="https://img.shields.io/twitter/follow/Coder__Abhishek?logo=twitter&style=for-the-badge" alt="Coder__Abhishek" /></a> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/abhishek-srivastava-00783821a" target="blank"><img src="https://img.shields.io/badge/Linkedin-Connect-blue" /></a> </p>
+<p align="left"> <a href="https://codepen.io/wanderingmind3" target="blank"><img src="https://img.shields.io/badge/Codepen-Follow-white" /></a> </p>
+<p align="left"> <a href="https://stackoverflow.com/user/16206914/abhishek-srivastava" target="blank"><img src="https://img.shields.io/badge/Stackoverflow-profile-orange" /></a> </p>
+<p align="left"> <a href="https://dev.to/wanderingmind3" target="blank"><img src="https://img.shields.io/badge/DEV-Follow-white" /></a> </p>
+
 
 
 
