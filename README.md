@@ -14,7 +14,6 @@
 <p align="left"> <a href="https://twitter.com/Coder__Abhishek" target="blank"><img src="https://img.shields.io/twitter/follow/Coder__Abhishek?logo=twitter&style=for-the-badge" alt="Coder__Abhishek" /></a> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/abhishek-srivastava-00783821a" target="blank"><img src="https://img.shields.io/badge/Linkedin-Connect-blue" /></a> </p>
 <p align="left"> <a href="https://codepen.io/wanderingmind3" target="blank"><img src="https://img.shields.io/badge/Codepen-Follow-white" /></a> </p>
-<p align="left"> <a href="https://stackoverflow.com/u/16206914" target="blank"><img src="https://img.shields.io/badge/Stackoverflow-profile-orange" /></a> </p>
 <p align="left"> <a href="https://dev.to/wanderingmind3" target="blank"><img src="https://img.shields.io/badge/DEV-Follow-white" /></a> </p>
 
 
