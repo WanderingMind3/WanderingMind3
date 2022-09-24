@@ -2,16 +2,15 @@
 
 
 
-- 🌱 I’m currently learning **DataScience and Python Development**
+- 🌱 I am a **Full Stack Developer**
 
 - 📫 How to reach me **iabhishek.4283@gmail.com**
 
-- ⚡ Fun fact **I want to get all the power of coding.**
+- ⚡ Fun fact **I want to make my dreams come true through coding.**
 
 - 🇮🇳 I am a programmer from India
 
 <h3 align="left">Here are some ways to connect with me 🔻</h3>
-<p align="left"> <a href="https://twitter.com/Coder__Abhishek" target="blank"><img src="https://img.shields.io/twitter/follow/Coder__Abhishek?logo=twitter&style=for-the-badge" alt="Coder__Abhishek" /></a> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/abhishek-srivastava-00783821a" target="blank"><img src="https://img.shields.io/badge/Linkedin-Connect-blue" /></a> </p>
 <p align="left"> <a href="https://codepen.io/wanderingmind3" target="blank"><img src="https://img.shields.io/badge/Codepen-Follow-white" /></a> </p>
 <p align="left"> <a href="https://dev.to/wanderingmind3" target="blank"><img src="https://img.shields.io/badge/DEV-Follow-white" /></a> </p>
