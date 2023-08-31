@@ -1,4 +1,4 @@
-![Hello, World](https://user-images.githubusercontent.com/86902918/137907650-3321ac44-ebe5-4b9e-928a-2b217481644b.gif)
+![Hello, World]
 
 
 
